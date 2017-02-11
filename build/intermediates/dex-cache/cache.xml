@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\AnshulGera\Downloads\Khabar 2-20161002T094844Z\Khabar 2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\AnshulGera\Downloads\Khabar 2-20161002T094844Z\Khabar 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.1_dfcc5213cf9ff0197a39c3e64ccf0f17469f60ad\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\AnshulGera\Downloads\Khabar 2-20161002T094844Z\Khabar 2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\AnshulGera\Downloads\Khabar 2-20161002T094844Z\Khabar 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_a7c2ef19fa20d5dc38cd8853ae3a6f2db6d73dc4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\AnshulGera\Downloads\Khabar 2-20161002T094844Z\Khabar 2\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d96886efea7cc74fbb3abd0e3b51d5638fc57be0">
+        <dex dex="C:\Users\AnshulGera\Downloads\Khabar 2-20161002T094844Z\Khabar 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.1.0_035aba8f0c77b7bab3165694c08b23a52bc4e249\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\AnshulGera\Downloads\Khabar 2-20161002T094844Z\Khabar 2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\AnshulGera\Downloads\Khabar 2-20161002T094844Z\Khabar 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_3eeec2c3684e6d1c4a4c63c191073c05e900d00e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\AnshulGera\Downloads\Khabar 2-20161002T094844Z\Khabar 2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="70f56a6bad0c11f789fb397592a0766ea359167e">
+        <dex dex="C:\Users\AnshulGera\Downloads\Khabar 2-20161002T094844Z\Khabar 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_abf2845786c17a795908ddcf221ec5483c2cf555\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\AnshulGera\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\AnshulGera\Downloads\Khabar 2-20161002T094844Z\Khabar 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_3139e97c95051e2e70fe794efc22da443d7a5e73\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\AnshulGera\Downloads\Khabar 2-20161002T094844Z\Khabar 2\app\build\intermediates\exploded-aar\com.daimajia.easing\library\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d7e947f993bf32a00fcb3078cdda8bb11c930afb">
+        <dex dex="C:\Users\AnshulGera\Downloads\Khabar 2-20161002T094844Z\Khabar 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.daimajia.easing-library-1.0.1_b2ae615e7b47d21bc3e570e3a679f2e45cc946ea\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\AnshulGera\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\AnshulGera\Downloads\Khabar 2-20161002T094844Z\Khabar 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_b94437d377fe05bff7d0b45e4bb2d5359dab056b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\AnshulGera\Downloads\Khabar 2-20161002T094844Z\Khabar 2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\AnshulGera\Downloads\Khabar 2-20161002T094844Z\Khabar 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_3573d8ff21f95a5e79e8b8918bdfa1d7e18e936a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\AnshulGera\Downloads\Khabar 2-20161002T094844Z\Khabar 2\app\build\intermediates\exploded-aar\com.daimajia.androidanimations\library\1.1.3\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8cec50fc9cc847bad0d6ed7d93814f4b34744521">
+        <dex dex="C:\Users\AnshulGera\Downloads\Khabar 2-20161002T094844Z\Khabar 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.daimajia.androidanimations-library-1.1.3_71b2e209822e7b0433b7e7d43b3bb3daa052d29d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\AnshulGera\Downloads\Khabar 2-20161002T094844Z\Khabar 2\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\AnshulGera\Downloads\Khabar 2-20161002T094844Z\Khabar 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.1_9ee8fbce21785b9506615f4878b6f2fb3f9ed3b6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\AnshulGera\Downloads\Khabar 2-20161002T094844Z\Khabar 2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="58a701b99f953abb0a531b27c2f9bf8d7f3bc9c2">
+        <dex dex="C:\Users\AnshulGera\Downloads\Khabar 2-20161002T094844Z\Khabar 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_67c1400ac4a4766c1b44182a367d3f482389c067\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\AnshulGera\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\AnshulGera\Downloads\Khabar 2-20161002T094844Z\Khabar 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_1000016194344fdc89f9ac57d4427ed89bc28a42\classes.dex" />
+    </item>
+
+</items>
